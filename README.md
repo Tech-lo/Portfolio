@@ -1,3 +1,3 @@
 # finalportfolio
 Latest Portfolio
-link https://chulbul7061.github.io/finalportfolio/#
+link https://tech-lo.github.io/Portfolio/#
